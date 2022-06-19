@@ -1,0 +1,4 @@
+# Created at 2021-02-13T11:59:19.838
+Boot Manifest-JAR contains absolute paths in classpath 'E:\batch252\org.magnitia.2otpautomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
